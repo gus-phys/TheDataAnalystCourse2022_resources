@@ -12,3 +12,4 @@
 * [APIs](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S15%20-%20APIs)
 * [pandas series](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S17%20-%20pandas%20series)
 * [pandas DataFrame](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S18%20-%20pandas%20DataFrame)
+* [NumPy Fundamentals](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S23%20-%20NumPy%20Fundamentals)
