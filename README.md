@@ -13,3 +13,4 @@
 * [pandas series](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S17%20-%20pandas%20series)
 * [pandas DataFrame](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S18%20-%20pandas%20DataFrame)
 * [NumPy Fundamentals](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S23%20-%20NumPy%20Fundamentals)
+* [Working with arrrays](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S10%20-%20Working%20with%20Text%20Files)
