@@ -16,3 +16,5 @@
 * [Working with arrrays](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S10%20-%20Working%20with%20Text%20Files)
 * [Generating data with NumPy](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S25%20-%20Generating%20Data%20with%20NumPy)
 * [Statistics with NumPy](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S26%20-%20Statistics%20with%20NumPy)
+* [The Absenteeism Exercise](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S32%20-%20The%20Absenteeism%20Exercise)
+* [Data Visualization](https://github.com/gus-phys/TheDataAnalystCourse2022_resources/tree/master/S34%20-%20Data%20Visualization)
